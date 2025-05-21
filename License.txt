@@ -1,0 +1,18 @@
+Copyright (c) 2025 Hammail. All rights reserved.
+
+This app, including its executable files, source code , and any other assets, is the exclusive property of Hammail.
+
+You are granted a limited, non-transferable, non-commercial license to:
+- Download and use the app for personal purposes only.
+
+You are strictly prohibited from:
+- Redistributing or selling any part of the app or its assets.
+- Modifying, reverse-engineering, or creating derivative works from the app.
+- Claiming authorship or ownership of the app, or its assets.
+- Uploading or publishing this app to any platform or repository without prior written permission.
+
+Proper credit to Hammail must be retained at all times in any context where the game is referenced, shown, or reviewed.
+
+Violation of these terms may result in legal action.
+
+For business or redistribution inquiries, contact: zoraizriaz786@gmail.com
