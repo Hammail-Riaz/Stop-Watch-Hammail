@@ -53,7 +53,7 @@ stopwatch/
 - **Reset Button**: Resets the timer to zero.
 - **Icon**: Custom app icon (`icon.png`).
 
-> Note: If the icon is not found or causes an error, either replace it or remove the line that sets the icon in `stopwatch.py`.
+> Note: If the icon is not found or causes an error, either replace it or remove the line that sets the icon in `main.py`.
 
 ---
 
