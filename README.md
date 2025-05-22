@@ -85,7 +85,7 @@ Feel free to update fonts, colors, and window size to suit your style.
 
 ## 📃 License
 
-This project is licensed under my custum License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under my custum License. See the [LICENSE](License.txt) file for details.
 
 ---
 
