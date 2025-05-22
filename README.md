@@ -34,7 +34,7 @@ stopwatch/
 
 - Python 3.x installed on your system
 
-### Installation
+### ⚡ Installation
 
 1. Clone the repository first.
   
@@ -44,6 +44,10 @@ stopwatch/
    python stopwatch.py
    ```
 
+---
+### 🔥 Complete App (No Python Installtion)
+1. This REPO also contain app
+2. Just double click on Stop Watch App to use.
 ---
 
 ## 🖼️ App UI
@@ -93,3 +97,4 @@ This project is licensed under my custum License. See the [LICENSE](License.txt)
 
 - Developed by Hammail
 - Built using the Python `tkinter` GUI library
+## Thanks for Visiting. 😁
